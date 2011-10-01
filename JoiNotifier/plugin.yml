@@ -1,0 +1,6 @@
+author: Delocaz
+description: "Notifies host computer/server with a small sound bite every time a player joins the server."
+main: me.Delocaz.JoiNotifier.JoiNotifier
+name: JoiNotifier
+url: http://wiki.marvinbek.net/JoiNotifier
+version: 0.1
